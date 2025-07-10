@@ -14,6 +14,6 @@ A classic Snake Game built in Python using the turtle graphics package. Enjoy th
   - score.py
     - Creating the score and displaying at the top once the snake eats its food and incrementing the score.
     - When the snake hit the wall or collide with its own body part then the game ends displaying "GAME OVER!"
-[Video](https://drive.google.com/file/d/1jLcjkY9hnO5mdpxSqXy_LE7UFPj4AEEO/view?usp=sharing)
+## [Video](https://drive.google.com/file/d/1jLcjkY9hnO5mdpxSqXy_LE7UFPj4AEEO/view?usp=sharing)
 
     
